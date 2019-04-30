@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>一个程序员的自我修养</title>
+    <link>https://haoqianwei.cn/</link>
+    <description>Recent content on 一个程序员的自我修养</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 29 Apr 2019 22:59:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://haoqianwei.cn/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>关于</title>
+      <link>https://haoqianwei.cn/about/</link>
+      <pubDate>Mon, 29 Apr 2019 22:59:00 +0800</pubDate>
+      
+      <guid>https://haoqianwei.cn/about/</guid>
+      <description>汪汪汪</description>
+    </item>
+    
+    <item>
+      <title>老张肯定会减肥成功的</title>
+      <link>https://haoqianwei.cn/posts/laozhang/</link>
+      <pubDate>Mon, 29 Apr 2019 22:59:00 +0800</pubDate>
+      
+      <guid>https://haoqianwei.cn/posts/laozhang/</guid>
+      <description>老张肯定会减肥成功的</description>
+    </item>
+    
+  </channel>
+</rss>
